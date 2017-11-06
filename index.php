@@ -12,7 +12,7 @@
   </div>
 
   <div class="container" style="color:black"> 
-    <form method="get" action="test_db.php" >
+    <form method="get" action="test.php" >
       <div class="form-group">
         <label>Task:</label>
         <select name="case_label">
